@@ -1,10 +1,6 @@
 
 # Breast-cancer-prediction-ML-Python
 
-![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2Fpopup_box)](https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/Rishit-dagli/Breast-cancer-prediction-ML-Python)
-![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?label=Follow&style=social)
-
 Make predictions for breast cancer, malignant or benign using the Breast Cancer data set<br>
 Dataset - Breast Cancer Wisconsin (Original) Data Set<br>
 This code demonstrates logistic regression on the dataset and also uses gradient descent to lower the BCE(binary cross entropy).
@@ -437,17 +433,7 @@ Now we are done with the code &#128512;
         }
     }
 
-## More about the project
-1. My medium article on same - [here](https://medium.com/@rishit.dagli/create-logistic-regression-algorithm-from-scratch-and-apply-it-on-data-set-3f16ca5dbdb9)
-2. My research paper on this - [here](https://iarjset.com/papers/machine-learning-as-a-decision-aid-for-breast-cancer-diagnosis/)
-3. Another must read paper about the same topic -[here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC55130/)
-
-## Other algorithms for same project by me
-1. Multiclass Neural Networks
-2. Random Forest classifier<br>
-[Project](https://gallery.azure.ai/Experiment/Breast-cancer-dataset)
 ## About me
-<strong>Rishit Dagli</strong><br>
-[Website](rishitdagli.ml)<br>
-[LinkedIn](https://www.linkedin.com/in/rishit-dagli-440113165/)
+<strong>Dhruv Patel</strong><br>
+[LinkedIn](https://www.linkedin.com/in/dhruvpatel1706/)
 
